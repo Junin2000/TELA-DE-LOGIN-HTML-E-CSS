@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: #E53F2E;
+}
+#topo{
+    background-color: #E53F2E;
+    color: white;
+    display: flex;
+    margin-top: 0;
+}
+
+#infinity{
+    padding-left: 12px
+}
+#cx_login{
+    width: 450px;
+    height: 390px;
+    padding-left: 20px;
+    background-color: rgb(49, 49, 49);
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid ;
+}
+
+#login{
+    display: flex;
+    justify-content: center;
+}
+
+#recup_senha{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#btn {
+    background-color: #E53F2E;
+    color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
